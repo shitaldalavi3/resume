@@ -1,0 +1,53 @@
+/*Reset default margin and padding*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0px;
+  
+}
+header
+{
+    background-color:gainsboro;
+    text-align: center;
+}
+ 
+
+.line-1 
+{
+    height: 1px;
+    background:grey;
+}
+img{
+    float:left;
+}
+div 
+{
+   text-align: left;
+}
+.personalinfo
+{
+    text-align: left;
+}
+.aboutme
+{
+    text-align: center;  
+}
+.education
+{
+    text-align: center;
+}
+.workexperience
+{
+    text-align: center;
+}
+.languages
+{
+    text-align: center;
+}
